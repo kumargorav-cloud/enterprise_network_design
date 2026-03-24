@@ -141,7 +141,9 @@ Example:
 * Built redundancy using dual ISP architecture
 
 
+## 📂 Packet Tracer File
 
+👉 [Download from Google Drive](https://drive.google.com/file/d/16RWo2_tnjk9BIfMoiYNa3_0LiMvyxd2k/view?usp=drive_link)
 
 
 ---
